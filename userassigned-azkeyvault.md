@@ -11,7 +11,7 @@ Este guia fornece um passo a passo para criar e testar uma User Assigned Managed
    - Abra o [Portal do Azure](https://portal.azure.com).
 
 2. **Criar a Managed Identity:**
-   - No menu de navegação à esquerda, clique em "Identities" em "Azure Active Directory".
+   - No menu de navegação à esquerda, clique em "Identities" em "Entra ID".
    - Clique em "Add" e selecione "User Assigned".
    - Preencha os detalhes:
      - **Nome:** Nome da sua Managed Identity.
