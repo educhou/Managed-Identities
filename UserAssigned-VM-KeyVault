@@ -77,5 +77,3 @@ Este guia fornece um passo a passo para criar e testar uma User Assigned Managed
 Se você seguiu todos os passos corretamente, deve ser capaz de acessar os segredos no Azure Key Vault usando a Managed Identity atribuída pelo usuário. Esta abordagem elimina a necessidade de gerenciar manualmente as credenciais, melhorando a segurança e a facilidade de gerenciamento.
 
 ---
-
-Este guia pode ser armazenado em um repositório GitHub para referência futura.
